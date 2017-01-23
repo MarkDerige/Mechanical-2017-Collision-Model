@@ -1,0 +1,3 @@
+Collision model for mechanical 2017 robot.
+Runs with Gazebo plugin.
+Can be combined with the real model to get more realistic visuals in Gazebo.
